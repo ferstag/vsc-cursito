@@ -1,1 +1,1 @@
-console.log("para el source control de vsc")
+console.log("para el source control de vsc con un cambio")
