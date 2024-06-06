@@ -1,1 +1,4 @@
-console.log("para el source control de vsc con un segundo cambio para el github")
+let nombre = "lucas"
+let saludo = "hola " + nombre
+
+console.log(saludo)
